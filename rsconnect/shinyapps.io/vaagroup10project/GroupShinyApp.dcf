@@ -1,0 +1,14 @@
+name: GroupShinyApp
+title: GroupShinyApp
+username:
+account: vaagroup10project
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4495091
+bundleId: 4925807
+url: https://vaagroup10project.shinyapps.io/GroupShinyApp/
+when: 1629040188.53864
+lastSyncTime: 1629040188.53864
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md|VAposter2.html|VAposter2_files

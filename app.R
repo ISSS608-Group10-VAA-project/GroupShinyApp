@@ -153,7 +153,7 @@ ui <- fluidPage(
     #spending locations TAB
     tabPanel("Spending locations", 
              
-             titlePanel("Subject Correlation Analysis"),
+             titlePanel("Card spending location Network"),
              sidebarLayout( 
                sidebarPanel(    
                  selectInput('DAY','select day',
